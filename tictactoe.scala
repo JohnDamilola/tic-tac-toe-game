@@ -54,7 +54,7 @@ package tictactoe{
                 println("========================")
                 println("player wins")
                 System.exit(1)
-            } else if (((pt1 == pt5) && (pt5 == pt9) && pt1 != "") || ((pt3 == pt5) && (pt5 == p78) && pt3 != "") ){ 
+            } else if (((pt1 == pt5) && (pt5 == pt9) && pt1 != "") || ((pt3 == pt5) && (pt5 == pt7) && pt3 != "") ){ 
                 println("")
                 println("========================")
                 println("player wins")
